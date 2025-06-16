@@ -6,11 +6,8 @@ ShiftTrackr is a simple Android application that helps users create n number of 
 - Create n number of companies
 - Track punch-in and punch-out times
 - Log break durations
-- Filter logs by date ranges (day/week/month/year/all/custom)
 - View total earnings and work hours
 - All data stored securely using SQLite
-- Search and filter logs by job or status
-- Clean UI with RecyclerView and Bottom Sheet dialogs
 
 🛠️ Built With
 - Language: Java
